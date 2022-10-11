@@ -1,0 +1,11 @@
+serve_iiif_file.content:
+  path: '/node/{book_node}/book-manifest-pregen'
+  defaults:
+    _controller: '\Drupal\serve_iiif_file\Controller\ServeIIIFFileController::content'
+    _title: 'Serve IIIF File'
+  requirements:
+    _permission: 'access content'
+  options:
+    parameters:
+      book_node:
+        type: entity:node
