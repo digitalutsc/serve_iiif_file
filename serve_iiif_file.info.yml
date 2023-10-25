@@ -2,4 +2,4 @@ type: module
 name: Serve IIIF File
 description: Serve iiif files which can be configured in the backend.
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
