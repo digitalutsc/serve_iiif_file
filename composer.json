@@ -1,6 +1,6 @@
 {
-  "name": "drupal/replaywebpage",
+  "name": "islandora_lite/serve_iiif_file",
   "type": "drupal-module",
-  "description": "Plays web archive files using ReplayWeb.page.",
+  "description": "Gets static IIIF files for the Islandora mirador viewer",
   "keywords": ["Drupal"]
 }
