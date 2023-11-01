@@ -1,0 +1,6 @@
+{
+  "name": "drupal/replaywebpage",
+  "type": "drupal-module",
+  "description": "Plays web archive files using ReplayWeb.page.",
+  "keywords": ["Drupal"]
+}
