@@ -9,12 +9,12 @@ use Drupal\file\Entity\File;
 use Symfony\Component\HttpFoundation\Response;
 
 /**
- *
+ * Controller for serving IIIF manifest files.
  */
 class ServeIIIFFileController {
 
   /**
-   *
+   * Serves IIIF manifest files.
    */
   public function content(NodeInterface $book_node) {
 
