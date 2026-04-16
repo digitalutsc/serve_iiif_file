@@ -2,7 +2,6 @@
 
 namespace Drupal\Tests\serve_iiif_file\Functional;
 
-use Drupal\Core\Url;
 use Drupal\Tests\BrowserTestBase;
 use PHPUnit\Framework\Attributes\RunTestsInSeparateProcesses;
 
